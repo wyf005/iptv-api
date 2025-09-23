@@ -1,23 +1,19 @@
 📺央视频道,#genre#
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
-CCTV-12,http://ygbh.site/php/bfgd.php?id=131
+CCTV-10,http://110.177.144.22:9003/hls/11/index.m3u8
+CCTV-11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-12,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://ygbh.site/php/bfgd.php?id=133
+CCTV-13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV-15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
+CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
-CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
-CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
+CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 
 📡卫视频道,#genre#
@@ -27,12 +23,16 @@ CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://58.58.111.222:808/hls/57/index.m3u8?key=txiptv
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
+西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 
 ☘️广东频道,#genre#
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604
 
 ☘️河南频道,#genre#
+梨园,https://vdse.bdstatic.com//5787b4fd8574dafb0362d30820022447.mp4
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 
@@ -60,9 +60,9 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -79,4 +79,4 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-09-23 06:20:05,http://ygbh.site/php/bfgd.php?id=063
+2025-09-23 18:23:26,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
