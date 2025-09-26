@@ -1,25 +1,15 @@
 📺央视频道,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-14,http://113.26.202.52:1299/tsfile/live/0014_1.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
-CETV-1,http://111.113.88.2:2000/rtp/239.121.4.180:9064
-CETV-1,http://223.167.230.34:4022/rtp/239.45.1.125:5140
-CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
+CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://171.113.210.106:4022/rtp/239.69.1.110:10298
+CETV-1,http://223.167.230.34:4022/rtp/239.45.1.125:5140
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
-CETV-1,http://27.184.64.66:58888/rtp/239.254.200.225:6259
-CETV-2,http://106.59.3.88:55555/rtp/239.200.201.121:8780
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
-CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
-CETV-4,http://106.59.3.88:55555/rtp/239.200.201.122:8784
-CETV-4,http://27.184.64.66:58888/rtp/239.254.200.227:6261
+CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -34,7 +24,7 @@ CETV-4,http://27.184.64.66:58888/rtp/239.254.200.227:6261
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 ☘️广东频道,#genre#
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=18398d13f0baf6bcc29c490266d38d0b&txTime=18dff22cf4d
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 
 ☘️河南频道,#genre#
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
@@ -75,7 +65,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
@@ -85,4 +74,4 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-09-26 18:21:18,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-09-27 06:18:29,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
