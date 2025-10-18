@@ -2,11 +2,13 @@
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
+CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
+CETV-4,http://111.43.126.240:7777/hls/36/index.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -33,25 +35,28 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+纬来电影,https://tv543.cc/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
+天映经典,https://tv543.cc/Smart.php?id=Celestial2
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森洋片,https://tv543.cc/Smart.php?id=ettvwestern
 
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-18 06:19:43,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-10-18 18:18:42,http://zqh2333.top:2222/rtp/239.93.55.54:5140
