@@ -1,7 +1,6 @@
 📺央视频道,#genre#
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761096126-f844a8cecb8c82b57452285d0ecbce88-0-187281c58f52c70d54638388a7d8e5fc
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
@@ -32,9 +31,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -54,4 +53,4 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-20 18:23:34,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-10-21 06:18:13,http://zqh2333.top:2222/rtp/239.93.55.54:5140
