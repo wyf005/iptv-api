@@ -3,8 +3,6 @@
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
-重庆卫视,http://sh.lnott.top:880/dx46.m3u8
-东南卫视,http://sh.lnott.top:880/dx47.m3u8
 
 ☘️广东频道,#genre#
 
@@ -38,7 +36,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
@@ -49,6 +46,7 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://live.nctv.top/huya.php?id=26355790
 
 🕘️更新时间,#genre#
-2025-10-30 18:21:32,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-31 06:18:45,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
