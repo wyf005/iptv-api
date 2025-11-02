@@ -1,12 +1,21 @@
 📺央视频道,#genre#
+CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-2,http://sh.lnott.top:880/dx02.m3u8
+CCTV-12,http://sh.lnott.top:880/dx12.m3u8
+CCTV-14,http://sh.lnott.top:880/dx14.m3u8
+CCTV-14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv
 CETV-1,https://httop.top/hrtn-cetv1
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 CETV-2,http://116.179.149.157:6000/rtp/226.0.2.69:8464
 CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
+湖南卫视,http://sh.lnott.top:880/dx31.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8
+河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
 
 ☘️广东频道,#genre#
 
@@ -30,8 +39,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -52,4 +61,4 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-11-02 06:17:32,https://httop.top/hrtn-cetv1
+2025-11-02 18:18:50,http://171.116.216.113:10010/rtp/226.0.1.157:3086
