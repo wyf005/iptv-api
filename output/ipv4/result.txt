@@ -1,12 +1,14 @@
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-深圳卫视,http://112.6.239.227:8207/hls/21/index.m3u8
+深圳卫视,http://sh.lnott.top:880/dx61.m3u8
 
 ☘️广东频道,#genre#
 
@@ -18,7 +20,9 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
@@ -31,9 +35,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -50,10 +54,7 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
-天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
-新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
 
 🕘️更新时间,#genre#
-2025-11-13 06:19:37,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-13 18:22:57,http://171.116.216.113:10010/rtp/226.0.1.157:3086
