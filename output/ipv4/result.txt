@@ -1,20 +1,10 @@
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
-CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
-CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
-CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
-CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
-CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
-CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
-CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=cq
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
@@ -70,4 +60,4 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
 
 🕘️更新时间,#genre#
-2025-11-19 06:19:58,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-19 18:22:33,http://bxtv.3a.ink/migu.php?id=cctv1
