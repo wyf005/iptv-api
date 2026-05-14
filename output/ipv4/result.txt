@@ -1,14 +1,15 @@
 📺央视频道,#genre#
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=06d61993614312350fe8ed0861a8be3d
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
-北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=4
-北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
+深圳卫视,http://192.151.150.154/live/szwshd.m3u8
 
 ☘️广东频道,#genre#
 
@@ -37,4 +38,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-05-14 07:05:35,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-05-14 19:54:45,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=06d61993614312350fe8ed0861a8be3d
