@@ -16,15 +16,20 @@ CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
-安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
 安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
+安徽卫视,http://223.75.149.129:9906/tsfile/live/0130_1.m3u8?key=txiptv
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
+广西卫视,http://223.75.149.129:9906/tsfile/live/0113_1.m3u8?key=txiptv
+河北卫视,http://223.75.149.129:9906/tsfile/live/0117_1.m3u8?key=txiptv
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
+深圳卫视,http://116.128.243.121:9905/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -40,18 +45,18 @@ CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-06-04 07:44:03,http://www.negative.top:50000/rtp/233.50.200.102:5140
+2026-06-04 20:45:15,http://www.negative.top:50000/rtp/233.50.200.102:5140
